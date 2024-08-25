@@ -1,5 +1,5 @@
 # ReName-File-SerialNumber
-StableDifuusionのLora作成用に作りました。<br>
+StableDiffusionのLora作成用に作りました。<br>
 指定したフォルダ内のファイル名を連番にします。png、jpgなど拡張子がバラバラでも適用されます。
 # 使い方(Ver.1.0.0現在)
 1. jarファイル起動。
